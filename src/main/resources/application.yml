@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: newmanga
+netty:
+  default:
+    allocator:
+      max-order: 3
